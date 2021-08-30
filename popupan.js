@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://vtdimexco.vn/';
+	var url_popup = 'https://vtdimexco.vn';
 
       //<![CDATA[
 	 
